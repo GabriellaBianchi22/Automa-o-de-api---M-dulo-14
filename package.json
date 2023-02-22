@@ -1,0 +1,16 @@
+{
+  "name": "testes-api-cypress-udemy",
+  "version": "1.0.0",
+  "description": "Teste de API com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "npx cypress open"
+  },
+  "author": "Gabriella Bianchi",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "dayjs": "^1.11.3"
+  }
+}
